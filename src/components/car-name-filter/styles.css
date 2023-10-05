@@ -1,0 +1,18 @@
+.CarNameFilter {
+  font-size: 1.2em;
+  line-height: 1.7em;
+  background: transparent;
+  border: none;
+  outline: none;
+  width: 100%;
+  padding: var(--gap);
+  background: url(/public/assets/search.svg);
+  background-position: calc(100% - 10px) center;
+  background-repeat: no-repeat;
+  padding-right: 50px;
+}
+
+.CarNameFilter:hover,
+.CarNameFilter:focus {
+  background-color: var(--background-light);
+}

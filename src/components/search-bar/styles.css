@@ -1,0 +1,16 @@
+.SearchBar {
+  box-shadow: 0 0 2px var(--shadow);
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--gap);
+  padding-bottom: var(--gap);
+}
+
+@media (min-width: 700px) {
+  .SearchBar {
+    flex-direction: row;
+  }
+}

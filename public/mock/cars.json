@@ -1,0 +1,274 @@
+{
+  "data": [
+    {
+      "id": "cd62e8d2-71d9-4a94-8b7b-ae13b6b9f9a7",
+      "type": "2-wheels",
+      "name": "Harley-Davidson Street Glide",
+      "color": "black",
+      "price": 21049,
+      "image": "/assets/images/cd62e8d2-71d9-4a94-8b7b-ae13b6b9f9a7.jfif",
+      "description": "The Harley-Davidson Street Glide is an iconic cruiser motorcycle known for its classic style and powerful V-twin engine."
+    },
+    {
+      "id": "fb076b7d-53b4-4ff2-a5c3-105a321e64e6",
+      "type": "2-wheels",
+      "name": "Honda CBR1000RR",
+      "color": "red",
+      "price": 16199,
+      "image": "/assets/images/fb076b7d-53b4-4ff2-a5c3-105a321e64e6.jfif",
+      "description": "The Honda CBR1000RR, also known as the Fireblade, is a high-performance sportbike admired for its speed and agility on the track."
+    },
+    {
+      "id": "90eaab16-7b15-40c9-bb64-53f3d04e6f96",
+      "type": "2-wheels",
+      "name": "Yamaha YZF-R1",
+      "color": "blue",
+      "price": 17399,
+      "image": "/assets/images/90eaab16-7b15-40c9-bb64-53f3d04e6f96.jfif",
+      "description": "The Yamaha YZF-R1 is a superbike that combines cutting-edge technology with a race-inspired design, delivering exceptional performance."
+    },
+    {
+      "id": "6a5f1ed0-34aa-442d-a5ec-dad0f40b6b06",
+      "type": "2-wheels",
+      "name": "Kawasaki Ninja ZX-10R",
+      "color": "green",
+      "price": 15999,
+      "image": "/assets/images/6a5f1ed0-34aa-442d-a5ec-dad0f40b6b06.jfif",
+      "description": "The Kawasaki Ninja ZX-10R is a sportbike designed for racing enthusiasts, featuring advanced electronics and aerodynamic styling."
+    },
+    {
+      "id": "f7b5cf54-dbb9-4381-b2a7-06e07121767a",
+      "type": "2-wheels",
+      "name": "Ducati Panigale V4",
+      "color": "red",
+      "price": 23995,
+      "image": "/assets/images/f7b5cf54-dbb9-4381-b2a7-06e07121767a.jfif",
+      "description": "The Ducati Panigale V4 is a high-performance motorcycle known for its Italian craftsmanship and thrilling riding experience."
+    },
+    {
+      "id": "9b157d83-9d3f-4cd6-b186-6d95f65e536f",
+      "type": "2-wheels",
+      "name": "Suzuki GSX-R1000",
+      "color": "black",
+      "price": 15699,
+      "image": "/assets/images/9b157d83-9d3f-4cd6-b186-6d95f65e536f.jfif",
+      "description": "The Suzuki GSX-R1000 is a legendary sportbike renowned for its superb handling and race-inspired design."
+    },
+    {
+      "id": "c47b65e1-5be7-471d-8e10-96b4290e4865",
+      "type": "2-wheels",
+      "name": "BMW S 1000 RR",
+      "color": "white",
+      "price": 16095,
+      "image": "/assets/images/c47b65e1-5be7-471d-8e10-96b4290e4865.jfif",
+      "description": "The BMW S 1000 RR is a superbike that combines precision engineering with cutting-edge technology, delivering top-tier performance."
+    },
+    {
+      "id": "a878c48c-9b3e-4423-89f5-e9bea24913e7",
+      "type": "2-wheels",
+      "name": "KTM 1290 Super Duke R",
+      "color": "orange",
+      "price": 17999,
+      "image": "/assets/images/a878c48c-9b3e-4423-89f5-e9bea24913e7.jfif",
+      "description": "The KTM 1290 Super Duke R is a naked sportbike known for its raw power and aggressive styling, providing an exhilarating ride."
+    },
+    {
+      "id": "132f7b9c-b4e5-4e05-9f06-aa24497ed0f8",
+      "type": "2-wheels",
+      "name": "Triumph Street Triple RS",
+      "color": "silver",
+      "price": 11950,
+      "image": "/assets/images/132f7b9c-b4e5-4e05-9f06-aa24497ed0f8.jfif",
+      "description": "The Triumph Street Triple RS is a naked sportbike celebrated for its versatile performance and British heritage."
+    },
+    {
+      "id": "71cf0e07-66dd-4f5a-a671-692f89f80f52",
+      "type": "2-wheels",
+      "name": "Aprilia RSV4 RF",
+      "color": "white",
+      "price": 24499,
+      "image": "/assets/images/71cf0e07-66dd-4f5a-a671-692f89f80f52.jfif",
+      "description": "The Aprilia RSV4 RF is a high-performance sportbike with Italian flair, known for its racing pedigree and technological advancements."
+    },
+    {
+      "id": "85d3a27c-9d64-4c3a-8a8e-0f38ac36a1f8",
+      "type": "sport",
+      "name": "Ferrari 488 GTB",
+      "color": "red",
+      "price": 252800,
+      "image": "/assets/images/85d3a27c-9d64-4c3a-8a8e-0f38ac36a1f8.jfif",
+      "description": "The Ferrari 488 GTB is an exotic sports car known for its striking design and blistering acceleration, powered by a V8 engine."
+    },
+    {
+      "id": "5a4b163f-773d-43e4-a31c-8bfc3b1f5961",
+      "type": "sport",
+      "name": "Lamborghini Huracan",
+      "color": "yellow",
+      "price": 274390,
+      "image": "/assets/images/5a4b163f-773d-43e4-a31c-8bfc3b1f5961.jfif",
+      "description": "The Lamborghini Huracan is an Italian supercar that combines stunning looks with high-performance capabilities, making it an automotive icon."
+    },
+    {
+      "id": "209ab2cb-5d1f-4c86-a1b6-b7e124fdd6dd",
+      "type": "sport",
+      "name": "Porsche 911 GT3",
+      "color": "silver",
+      "price": 161100,
+      "image": "/assets/images/209ab2cb-5d1f-4c86-a1b6-b7e124fdd6dd.jfif",
+      "description": "The Porsche 911 GT3 is a precision-engineered sports car designed for track enthusiasts, offering a blend of power and handling."
+    },
+    {
+      "id": "b249fd49-62c5-4785-9803-107af01ce375",
+      "type": "sport",
+      "name": "McLaren 720S",
+      "color": "blue",
+      "price": 299000,
+      "image": "/assets/images/b249fd49-62c5-4785-9803-107af01ce375.jfif",
+      "description": "The McLaren 720S is a supercar that exemplifies cutting-edge technology and aerodynamic design, delivering breathtaking speed."
+    },
+    {
+      "id": "89095b84-3bc5-4a0a-8be0-7d4f0845eafa",
+      "type": "sport",
+      "name": "Aston Martin Vantage",
+      "color": "silver",
+      "price": 139000,
+      "image": "/assets/images/89095b84-3bc5-4a0a-8be0-7d4f0845eafa.jfif",
+      "description": "The Aston Martin Vantage is a luxury sports car celebrated for its British craftsmanship and thrilling performance on the road."
+    },
+    {
+      "id": "121088ae-c04f-4a93-aa26-47798fda0b91",
+      "type": "sport",
+      "name": "Chevrolet Corvette Stingray",
+      "color": "blue",
+      "price": 62495,
+      "image": "/assets/images/121088ae-c04f-4a93-aa26-47798fda0b91.jfif",
+      "description": "The Chevrolet Corvette Stingray is an American sports car known for its bold styling and impressive power, making it a classic."
+    },
+    {
+      "id": "18fc3c2b-4234-49d4-84cd-439b9d5684a5",
+      "type": "sport",
+      "name": "Nissan GT-R",
+      "color": "silver",
+      "price": 113540,
+      "image": "/assets/images/18fc3c2b-4234-49d4-84cd-439b9d5684a5.jfif",
+      "description": "The Nissan GT-R, often referred to as 'Godzilla,' is a high-performance sports car known for its all-wheel-drive capability and speed."
+    },
+    {
+      "id": "9f5f21d9-b8e0-4f4c-85d6-0ce3bb02d7a9",
+      "type": "sport",
+      "name": "Audi R8",
+      "color": "red",
+      "price": 169900,
+      "image": "/assets/images/9f5f21d9-b8e0-4f4c-85d6-0ce3bb02d7a9.jfif",
+      "description": "The Audi R8 is a German supercar known for its sleek design and a perfect blend of performance and everyday usability."
+    },
+    {
+      "id": "b0f5ed69-4e16-4915-9d4d-7d4dcb8c758a",
+      "type": "sport",
+      "name": "Ford Mustang Shelby GT500",
+      "color": "blue",
+      "price": 78595,
+      "image": "/assets/images/b0f5ed69-4e16-4915-9d4d-7d4dcb8c758a.jfif",
+      "description": "The Ford Mustang Shelby GT500 is a powerful American muscle car recognized for its legendary performance and heritage."
+    },
+    {
+      "id": "43b9c70a-2689-49c3-9fbb-9410b585416b",
+      "type": "sport",
+      "name": "BMW M4",
+      "color": "yellow",
+      "price": 71500,
+      "image": "/assets/images/43b9c70a-2689-49c3-9fbb-9410b585416b.jfif",
+      "description": "The BMW M4 is a high-performance sports coupe admired for its precision engineering and dynamic driving experience."
+    },
+    {
+      "id": "5f31d013-86ab-4c5a-98b3-19d0ea8367b8",
+      "type": "electrical",
+      "name": "Tesla Model S",
+      "color": "silver",
+      "price": 79990,
+      "image": "/assets/images/5f31d013-86ab-4c5a-98b3-19d0ea8367b8.jfif",
+      "description": "The Tesla Model S is an electric luxury sedan known for its innovation and environmental friendliness, redefining the automotive industry."
+    },
+    {
+      "id": "7a96df3b-61a0-4f50-8b59-26b68b8e16c4",
+      "type": "electrical",
+      "name": "Nissan Leaf",
+      "color": "white",
+      "price": 29990,
+      "image": "/assets/images/7a96df3b-61a0-4f50-8b59-26b68b8e16c4.jfif",
+      "description": "The Nissan Leaf is a popular electric hatchback that offers an eco-friendly and practical driving experience, ideal for daily commutes."
+    },
+    {
+      "id": "c5d8efc3-c4b6-4aa6-91db-293a3fcf39a3",
+      "type": "electrical",
+      "name": "Chevrolet Bolt EV",
+      "color": "blue",
+      "price": 31995,
+      "image": "/assets/images/c5d8efc3-c4b6-4aa6-91db-293a3fcf39a3.jfif",
+      "description": "The Chevrolet Bolt EV is an all-electric compact car known for its affordability and impressive range, making electric driving accessible."
+    },
+    {
+      "id": "9e3e2f1f-24b7-4e6e-8755-78b74e472839",
+      "type": "electrical",
+      "name": "BMW i3",
+      "color": "white",
+      "price": 44450,
+      "image": "/assets/images/9e3e2f1f-24b7-4e6e-8755-78b74e472839.jfif",
+      "description": "The BMW i3 is an electric car designed for urban mobility, featuring a distinctive appearance and sustainable materials."
+    },
+    {
+      "id": "e91e96e4-e2e6-4d62-8cc3-1d4d8b16e751",
+      "type": "electrical",
+      "name": "Ford Mustang Mach-E",
+      "color": "red",
+      "price": 43995,
+      "image": "/assets/images/e91e96e4-e2e6-4d62-8cc3-1d4d8b16e751.jfif",
+      "description": "The Ford Mustang Mach-E is an all-electric SUV that combines iconic Mustang design elements with emission-free driving."
+    },
+    {
+      "id": "4c48604e-3271-4d08-8821-6bf0ab5d347f",
+      "type": "electrical",
+      "name": "Audi e-Tron",
+      "color": "black",
+      "price": 65900,
+      "image": "/assets/images/4c48604e-3271-4d08-8821-6bf0ab5d347f.jfif",
+      "description": "The Audi e-Tron is an electric SUV known for its luxury and advanced technology, offering a premium electric driving experience."
+    },
+    {
+      "id": "d68ea91f-9b5b-46b8-9e84-7d20a9d9a10f",
+      "type": "electrical",
+      "name": "Kia Soul EV",
+      "color": "blue",
+      "price": 34590,
+      "image": "/assets/images/d68ea91f-9b5b-46b8-9e84-7d20a9d9a10f.jfif",
+      "description": "The Kia Soul EV is an electric crossover with a unique design and practicality, making it a popular choice among eco-conscious drivers."
+    },
+    {
+      "id": "8ef9e70e-b7ec-4c19-b16d-7a6626bf9432",
+      "type": "electrical",
+      "name": "Hyundai Kona Electric",
+      "color": "yellow",
+      "price": 37390,
+      "image": "/assets/images/8ef9e70e-b7ec-4c19-b16d-7a6626bf9432.jfif",
+      "description": "The Hyundai Kona Electric is an electric SUV known for its affordability and impressive range, ideal for electric vehicle enthusiasts."
+    },
+    {
+      "id": "1a11971d-dca2-4a7d-8042-7d8cc83707c2",
+      "type": "electrical",
+      "name": "Jaguar I-PACE",
+      "color": "grey",
+      "price": 69850,
+      "image": "/assets/images/1a11971d-dca2-4a7d-8042-7d8cc83707c2.jfif",
+      "description": "The Jaguar I-PACE is an all-electric SUV recognized for its luxury and performance, representing Jaguar's entry into the EV market."
+    },
+    {
+      "id": "a4c7e77a-6d66-46b0-8455-13ef9ef8b4b2",
+      "type": "electrical",
+      "name": "Volkswagen ID.4",
+      "color": "white",
+      "price": 39995,
+      "image": "/assets/images/a4c7e77a-6d66-46b0-8455-13ef9ef8b4b2.jfif",
+      "description": "The Volkswagen ID.4 is an electric SUV that offers a spacious interior and versatile design, catering to the needs of modern families."
+    }
+  ]
+}

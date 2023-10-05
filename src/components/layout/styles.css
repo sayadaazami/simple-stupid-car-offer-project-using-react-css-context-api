@@ -1,0 +1,30 @@
+.Layout {
+  display: flex;
+  flex-direction: column;
+  gap: var(--gap);
+}
+
+.Layout-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: var(--gap);
+  padding: 0 var(--gap-lg);
+}
+
+.Layout-header-logo {
+  color: var(--primary);
+  width: 40px;
+  height: 40px;
+}
+
+.Layout-header-link {
+  color: var(--primary);
+  text-decoration: none;
+  font-size: 1.2em;
+  font-weight: bolder;
+}
+
+.Layout-content {
+  text-align: start;
+}
